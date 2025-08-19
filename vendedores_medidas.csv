@@ -1,0 +1,53 @@
+﻿REGION,NOMBRE,APELLIDO,SALARIO,UNIDADES_VENDIDAS,VENTAS_TOTALES
+NORTE,Arturo,Bustos González,12041,212,4554
+NORTE,Jesús Said,Caro Ibarra,11504,488,3298
+NORTE,Ana Valeria,Cruz Montesinos,10046,429,7238
+NORTE,Miranda,Doring Romo,10266,109,5635
+NORTE,Bruno Guissepe,Garcini García,10431,222,5405
+NORTE,Donovan Hiram,García Cruz,11773,438,3577
+NORTE,Ixchel,García Galán,8654,291,10020
+NORTE,Sebastián,Garduño Pabello,11777,280,7922
+NORTE,Gustavo,Guadarrama García,12071,184,8972
+NORTE,Juan Pablo,Herrera Moro Salcedo,12072,143,9053
+SUR,Héctor,Hidalgo Sepúlveda,8438,431,6626
+SUR,Xareni,Lara Roldán,9041,451,4373
+SUR,Abigail,Luna Pineda,8561,330,4158
+SUR,Diego,Mancha Mendoza,9446,366,5022
+SUR,Eric,Martin Monterrubio,12141,476,6234
+SUR,Carlos Emmiliano,Medina Rojo,8044,340,6984
+SUR,Jimena Sarai,Medina Sedano,11431,231,7522
+SUR,Fermín,Méndez García,9953,448,3612
+SUR,Sergio Arturo,Nava Rodríguez,9572,218,5157
+SUR,Óscar Eduardo,Nieto Espitia,8421,145,5951
+SUR,Isis Renata,Reyes Rosales,12003,341,16408
+ESTE,Orson Nekros Oswaldo,Reyes Téllez,8152,299,6742
+ESTE,Carlos Eduardo,Riosmena Castañón,9837,494,8234
+ESTE,Natalia,Rivera Albarrán,10520,472,6301
+ESTE,Andrés Alejandro,Rodríguez López,8204,180,9387
+ESTE,Angélica Jazmín,Román Rodríguez,8776,420,8831
+ESTE,Erick David,Rosales Aldana,10188,102,3284
+ESTE,Marien,Ruenes Amarante,11402,358,5668
+ESTE,Juan Javier,Sánchez Arzate,9694,134,7964
+OESTE,Sophia Wendolin,Trejo Torres,8834,490,6417
+OESTE,Martha Anaís,Vega González,9668,282,6470
+OESTE,Fabián,Álvarez Hernández,9987,381,7055
+OESTE,Javier Iñaqui,Aicinena Vargas,10607,378,3476
+OESTE,Guadalupe,de la Cruz Márquez,9833,218,5548
+OESTE,Brenda Guadalupe,Flores Parada,11970,257,3354
+OESTE,Eduardo,Larios Fernández,8139,193,7597
+OESTE,Marco Antonio,Luna Calvillo,11847,134,5024
+OESTE,Manuel Alejandro,López Pérez,8842,113,4547
+OESTE,Bruno,Maglioni Granada,12206,136,4496
+OESTE,Marco Antonio,Mancha Alfaro,10897,187,8712
+OESTE,Romel Javid,Martínez Olvera,8784,177,8946
+OESTE,José Francisco,Monroy Ugarte,10308,384,8033
+OESTE,Carlos Miguel,Negrete Barrientos,12362,258,4121
+OESTE,Andrés,Quiroz Duarte,8307,364,8759
+OESTE,Karina,Reyes Santiago,8635,284,7371
+OESTE,Luis Alfredo,Rodríguez Santos,12088,474,4573
+OESTE,José Ramón Fernando,Romero Chávez,12369,449,7113
+OESTE,Carlos,Román Rivera,11996,285,4502
+OESTE,Luis Claudio,Soto Ayala,11281,269,5164
+OESTE,Víctor Hugo,Torres Rivera,8493,371,7524
+OESTE,Santiago,Valencia Corona,10661,477,5144
+OESTE,Filiberto Francisco,Vázquez Rodríguez,12275,282,6713
